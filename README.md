@@ -13,7 +13,7 @@
 - 全部修改自动备份，卸载模块自动还原脚本原始内容
 - 日志持久化输出：`/storage/emulated/0/Android/protect_log.txt`
 - 防护模式：轻度模式 / Root完整防护模式自动切换
-- KPM内核模块加载校验（可选）
+- KPM内核模块加载校验
 
 ## 📋ABI支持
 - ✅ arm64‑v8a（AArch64）
